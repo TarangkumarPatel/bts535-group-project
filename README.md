@@ -1,7 +1,8 @@
-# bts535-group-project
-Group project for BTS535 leading to capstone project managed using SCRUM and Kanban.
-# Group 4
-## Team Information 
+# Sales Forecasting for Small Businesses
+
+## Team Members
+
+**Group 4**
 
 | Student Name | GitHub ID | Student Email |
 | -------- | -------- | -------- |
