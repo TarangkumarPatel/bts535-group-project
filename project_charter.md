@@ -28,7 +28,13 @@ The project will be built by the four members of Group 4 using Scrum, with all w
 
 ### 1.3 Authorization
 
-To be completed.
+This charter authorizes Group 4 to start the project and to use the team's time and the tools listed in this charter to complete it.
+
+**Project Sponsor:** Junlian Xiang, Professor, BTS535, Seneca Polytechnic
+
+**Project Team:** Tarangkumar Janakkumar Patel, Jaishnav Prasad, Festus Sabu, Faith Sam
+
+**Approval Date:** Pending approval
 
 ---
 
