@@ -20,7 +20,11 @@ Every time a change is merged, the version history table below is updated. Small
 
 ### 1.2 Executive Summary
 
-To be completed.
+Many people want to use AI to search and ask questions about their documents, notes and code. However, most AI tools send this data to the cloud. This is a problem for anyone who works with private or confidential files, and some companies do not allow cloud AI tools at all for this reason.
+
+Our project is a desktop app that lets users add folders from their own computer and ask questions about those files in plain language. Everything runs on the user's computer using local AI models, so no data leaves the machine and no internet connection is needed after setup. The app shows which files each answer came from, so users can check that the answer is correct. It can also help developers understand their codebase and generate new code that fits their existing project.
+
+The project will be built by the four members of Group 4 using Scrum, with all work tracked on GitHub. It uses free and open-source tools, so there are no licence or cloud costs. The project will be successful if we deliver a working desktop app that can add a folder, answer questions from those files with sources, and run fully offline.
 
 ### 1.3 Authorization
 
