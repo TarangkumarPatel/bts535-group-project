@@ -32,7 +32,11 @@ To be completed.
 
 ### 2.1 Project Summary
 
-To be completed.
+People often have a lot of files on their computer, such as documents, notes and code, and finding information in them by hand takes a long time. AI assistants can help, but most of them upload files to cloud servers, need an internet connection, and often cost a monthly fee. Because of privacy and security concerns, many students, developers and companies cannot or will not use them with their private files.
+
+This project will build a privacy-first desktop app that works fully offline. Users choose folders on their computer, and the app reads the files (PDF, Word, Markdown, text and code files) and stores them in a local vector database. When the user asks a question, the app finds the most relevant parts of their files and uses a local AI model (through Ollama) to write an answer, showing which files and passages it used. For harder tasks, such as comparing documents or tracing how code works, the app uses AI agents that can take several steps to reach an answer. Developers can also ask questions about their codebase and generate new code that follows the style of their existing project.
+
+The app will be built with Python and FastAPI for the backend, LangChain or LlamaIndex for the AI workflows, ChromaDB or LanceDB for local storage, and React with TypeScript inside Tauri for the desktop app. The main users who will benefit are students, developers, researchers and professionals who want the help of AI without giving up the privacy of their data.
 
 ### 2.3 Project Scope
 
