@@ -62,6 +62,18 @@ Our WBS is deliverable-based. Each branch is one main deliverable of the project
 - **1.3 Sprint Plans and Reviews:** the plan for each sprint and the review at the end of it.
 - **1.4 GitHub Repository Setup:** the repository with the README, Working Agreement and Definition of Done.
 
+**2. File Indexing Module**
+- **2.1 Folder Selection:** the feature that lets the user choose which folders on their computer the app can read.
+- **2.2 File Readers (PDF, Word, Text, Code):** the readers that open each supported file type and pull out its text.
+- **2.3 Text Chunks and Embeddings:** the step that splits the text into small pieces and turns each piece into numbers the app can search.
+- **2.4 Local Vector Database:** the database on the user's computer where the pieces are saved, so nothing is sent to the cloud.
+
+**3. Question Answering Engine**
+- **3.1 Local AI Model Setup (Ollama):** the local AI model that runs on the user's computer through Ollama.
+- **3.2 Search and Retrieval:** the search that finds the parts of the user's files that best match the question.
+- **3.3 Answers with Sources:** the answer written by the local AI model, shown with the files and passages it came from.
+- **3.4 Chat History:** the saved past chats that the user can open again later.
+
 ### 2.4 Milestones
 
 **Project Milestones**
