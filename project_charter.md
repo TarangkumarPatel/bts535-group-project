@@ -50,7 +50,17 @@ The app will be built with Python and FastAPI for the backend, LangChain or Llam
 
 ### 2.3 Project Scope
 
-To be completed in a later workshop.
+#### Work Breakdown Structure
+
+![Work Breakdown Structure](images/WBS.png)
+
+Our WBS is deliverable-based. Each branch is one main deliverable of the project, and each box under it is a work package that the team can plan, build and test on its own. All the work in the project is included, and no work package appears twice.
+
+**1. Project Management**
+- **1.1 Project Charter:** the document that describes the project's goals, scope, milestones, deliverables, team, risks and costs.
+- **1.2 Product Backlog and User Story Map:** the user stories in GitHub Issues and the story map in Miro.
+- **1.3 Sprint Plans and Reviews:** the plan for each sprint and the review at the end of it.
+- **1.4 GitHub Repository Setup:** the repository with the README, Working Agreement and Definition of Done.
 
 ### 2.4 Milestones
 
