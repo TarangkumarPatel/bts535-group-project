@@ -74,6 +74,12 @@ Our WBS is deliverable-based. Each branch is one main deliverable of the project
 - **3.3 Answers with Sources:** the answer written by the local AI model, shown with the files and passages it came from.
 - **3.4 Chat History:** the saved past chats that the user can open again later.
 
+**6. Testing and Documentation**
+- **6.1 Unit Tests:** tests for the backend and frontend that check that each part of the app works as expected.
+- **6.2 CI Pipeline (GitHub Actions):** a workflow that runs the tests automatically on every pull request.
+- **6.3 User Guide:** a simple guide that shows users how to install the app, add folders and ask questions.
+- **6.4 Final Report and Demo:** the final report on the project's results and the demo of the finished app.
+
 ### 2.4 Milestones
 
 **Project Milestones**
