@@ -111,6 +111,16 @@ Our WBS is deliverable-based. Each branch is one main deliverable of the project
 9. **Final Demo and Project Closure**
    The team presents the final app, hands in the final documents, and the project is closed.
 
+#### Gantt Chart
+
+![Gantt Chart](images/Gantt.png)
+
+The project runs for **8 sprints of 2 weeks each (16 weeks)**. Each bar is a work package from the WBS in Section 2.3.
+
+**Critical path (red bars):** 1.1 Project Charter → 1.2 Product Backlog and User Story Map → 1.4 GitHub Repository Setup → 2.2 File Readers → 2.3 Text Chunks and Embeddings → 2.4 Local Vector Database → 3.2 Search and Retrieval → 3.3 Answers with Sources → 4.1 Codebase Questions and Answers → 4.2 Code Generation → 5.4 Installer → 6.4 Final Report and Demo.
+
+These 12 work packages add up to the full 16 weeks, so a delay in any of them delays the whole project. The blue tasks have slack, so they can move a little without changing the end date.
+
 ### 2.5 Deliverables
 
 **Project Deliverables**
@@ -147,7 +157,23 @@ Our WBS is deliverable-based. Each branch is one main deliverable of the project
 
 ### 2.6 Project Cost Estimate
 
-To be completed in a later workshop.
+This is a preliminary budget for the project, assuming a Scrum framework. It uses the same timeline as the Gantt chart in Section 2.4: **8 sprints of 2 weeks each**. All amounts are in Canadian dollars (CAD). We assume a work day of 7.5 hours and 10 working days per sprint.
+
+#### 2.6.1 Personnel Cost
+
+To be completed.
+
+#### 2.6.2 Fixed Cost
+
+To be completed.
+
+#### 2.6.3 Contingency
+
+To be completed.
+
+#### 2.6.4 Total Estimated Cost
+
+To be completed.
 
 ### 2.7 Dependencies
 
