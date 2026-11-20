@@ -161,7 +161,33 @@ This is a preliminary budget for the project, assuming a Scrum framework. It use
 
 #### 2.6.1 Personnel Cost
 
-To be completed.
+The team follows Scrum with four roles. Each member works 75 hours per sprint (7.5 hours × 10 working days). Rates are the Ontario median hourly wages from the Government of Canada Job Bank for the closest matching occupation (NOC code shown).
+
+| **Role** | **Hourly Rate** | **Hours per Sprint** | **Allocation (%)** | **Sprint Burn Rate** |
+|----------|-----------------|----------------------|--------------------|----------------------|
+| Scrum Master (NOC 20012) [1] | $66.67 | 75 | 50% | $2,500.13 |
+| Backend and AI Developer (NOC 21232) [2] | $48.08 | 75 | 100% | $3,606.00 |
+| Frontend Developer (NOC 21232) [2] | $48.08 | 75 | 100% | $3,606.00 |
+| QA and DevOps Specialist (NOC 22222) [3] | $37.98 | 75 | 100% | $2,848.50 |
+| **Total** | | | | **$12,560.63** |
+
+**Total Personnel Cost**
+
+| **Description** | **Value** |
+|-----------------|-----------|
+| Sprint Burn Rate | $12,560.63 |
+| Number of Sprints | 8 |
+| **Total** | **$100,485.04** |
+
+**References**
+
+[1] Government of Canada Job Bank, "Wages: Computer Projects Manager (NOC 20012)," updated Nov. 19, 2025. https://www.jobbank.gc.ca/marketreport/wages-occupation/1452/geo9219
+
+[2] Government of Canada Job Bank, "Wages: Software Developer (NOC 21232)," updated Nov. 19, 2025. https://www.jobbank.gc.ca/marketreport/wages-occupation/22548/ca
+
+[3] Government of Canada Job Bank, "Wages: Systems Testing Technician (NOC 22222)," updated Nov. 19, 2025. https://www.jobbank.gc.ca/marketreport/wages-occupation/3954/ON
+
+[4] K. Schwaber and J. Sutherland, "The Scrum Guide," 2020. https://scrumguides.org/scrum-guide.html
 
 #### 2.6.2 Fixed Cost
 
