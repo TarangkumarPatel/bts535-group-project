@@ -216,12 +216,27 @@ Fixed costs are one-time costs that do not change with the number of hours the t
 Team members use their own computers for development, so these are not included as a project cost.
  
 #### 2.6.3 Contingency
- 
-To be completed.
- 
+
+A contingency fund is added to cover unexpected costs, such as delays on the critical path, extra work on the local AI model, or price changes for equipment. We use 15% of the personnel and fixed costs, which is the top of the typical 10% to 15% range [5]. We chose the top of the range because building a fully offline AI app is new to the team and has more uncertainty.
+
+| **Description**   | **Percentage** | **Personnel + Fixed Costs** | **Total Contingency** |
+|-------------------|----------------|-----------------------------|-----------------------|
+| Contingency Funds | 15%            | $102,335.04                 | **$15,350.26**        |
+
+**References**
+
+[5] "7.14 Contingency Funds," in *Strategic Project Management: Theory and Practice for Human Resource Professionals*, eCampusOntario Pressbooks. https://ecampusontario.pressbooks.pub/hrstrategicprojectmanagementtheory/chapter/7-14-contingency-funds/
+
 #### 2.6.4 Total Estimated Cost
- 
-To be completed.
+
+The total estimated cost is the sum of the personnel cost (Section 2.6.1), the fixed cost (Section 2.6.2) and the contingency (Section 2.6.3), for the 8 sprints shown in the Gantt chart.
+
+| **Cost Category**        | **Amount**      |
+|--------------------------|-----------------|
+| Total Personnel Cost     | $100,485.04     |
+| Total Fixed Cost         | $1,850.00       |
+| Total Contingency (15%)  | $15,350.26      |
+| **Total Estimated Cost** | **$117,685.30** |
  
 ### 2.7 Dependencies
  
