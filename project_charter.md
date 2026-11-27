@@ -260,13 +260,28 @@ To be completed in a later workshop.
  
 ## 3. Project Organization
  
-### 3.1 Project Team Structure
- 
-To be completed in a later workshop.
- 
-### 3.2 Key Stakeholders
- 
-To be completed in a later workshop.
+### 3.1 Stakeholder Register
+
+| **Name** | **Position** | **Internal / External** | **Project Role** | **Email** |
+|----------|--------------|-------------------------|------------------|-----------|
+| Junlian Xiang | Professor, BTS535, Seneca Polytechnic | Internal | Project Sponsor | junlian.xiang@senecapolytechnic.ca |
+| Tarangkumar Janakkumar Patel | Student, Seneca Polytechnic | Internal | Scrum Master and Developer | tjpatel5@myseneca.ca |
+| Festus Sabu | Student, Seneca Polytechnic | Internal | Backend and AI Developer | fsabu@myseneca.ca |
+| Jaishnav Prasad | Student, Seneca Polytechnic | Internal | Frontend and Desktop App Developer | jprasad3@myseneca.ca |
+| Faith Sam | Student, Seneca Polytechnic | Internal | QA Tester and Documentation Lead | fsam3@myseneca.ca |
+| Linda Chen | Privacy and Security Advisor | Internal | Privacy Reviewer | linda.chen@example.com |
+| Rachel Morgan | IT Support Analyst | Internal | IT Support (lab machines and software installs) | rachel.morgan@example.com |
+| Daniel Kim | Software Developer | External | End User (Developer) and Beta Tester | daniel.kim@example.com |
+| Priya Nair | University Researcher | External | End User (Researcher) | priya.nair@example.com |
+| Alex Rivera | Open-Source Community Maintainer | External | Third-Party Tool Provider (Ollama and AI libraries) | alex.rivera@example.com |
+
+### 3.2 Stakeholder Analysis Matrix
+
+To be completed.
+
+### 3.3 Stakeholder Communications Analysis
+
+To be completed.
  
 ---
  
