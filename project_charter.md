@@ -277,7 +277,7 @@ To be completed in a later workshop.
 
 ### 3.2 Stakeholder Analysis Matrix
 
-To be completed.
+![Stakeholder Analysis Matrix](images/Stakeholder_Matrix.png)
 
 ### 3.3 Stakeholder Communications Analysis
 
