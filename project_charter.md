@@ -267,6 +267,20 @@ To be completed in a later workshop.
 ### 3.2 Key Stakeholders
  
 To be completed in a later workshop.
+
+### 3.3 Stakeholder Communications Analysis
+
+| Information                      | Owner                     | Audience                                                        | Schedule                          | Channel                    |
+|----------------------------------|---------------------------|-----------------------------------------------------------------|-----------------------------------|----------------------------|
+| Daily Stand-up                   | Scrum Master              | Backend and AI Developer, Frontend Developer, QA and DevOps Specialist | Daily (15 min)              | MS Teams                   |
+| Project Status Report            | Scrum Master              | Project Sponsor                                                 | Weekly                            | Email                      |
+| Sprint Review and Demo           | Development Team          | Project Sponsor, Scrum Master                                   | Biweekly (end of each sprint)     | In Person                  |
+| Sprint Planning and Retrospective| Scrum Master              | Backend and AI Developer, Frontend Developer, QA and DevOps Specialist | Biweekly (start/end of sprint) | In Person               |
+| Scope or Charter Change Approval | Scrum Master              | Project Sponsor                                                 | As needed                         | GitHub Pull Request, Email |
+| Test and Build Results           | QA and DevOps Specialist  | Backend and AI Developer, Frontend Developer                    | Every pull request                | GitHub Actions             |
+| Beta Testing Feedback            | Frontend Developer        | End Users (Students, Developers, Researchers)                   | Monthly (from Sprint 5)           | Online Survey, Email       |
+| Release and User Guide           | Scrum Master              | End Users (Students, Developers, Researchers)                   | End of Project                    | GitHub Release, Email      |
+| Final Report and Demo            | Project Team              | Project Sponsor                                                 | End of Project                    | In Person                  |
  
 ---
  
