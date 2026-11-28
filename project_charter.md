@@ -279,6 +279,13 @@ To be completed in a later workshop.
 
 ![Stakeholder Analysis Matrix](images/Stakeholder_Matrix.png)
 
+The matrix places every stakeholder from the Stakeholder Register by their **power** over the project (vertical) and their **interest** in it (horizontal). The colour of each name shows their **attitude** toward the project.
+
+- **Manage Closely (high power, high interest):** Junlian Xiang (Project Sponsor) and Tarangkumar Patel (Scrum Master). Both support the project and are involved in every major decision.
+- **Keep Satisfied (high power, low interest):** Linda Chen (Privacy Advisor) has concerns about how an AI app handles personal files, so we must show her that all data stays on the user's computer. Rachel Morgan (IT Support) is neutral and only needs to approve software installs.
+- **Keep Informed (low power, high interest):** the developers Festus Sabu, Jaishnav Prasad and Faith Sam, and Daniel Kim (End User, Developer). All of them support the project.
+- **Monitor (low power, low interest):** Priya Nair (End User, Researcher) and Alex Rivera (Open-Source Maintainer). Both are neutral.
+
 ### 3.3 Stakeholder Communications Analysis
 
 To be completed.
