@@ -260,25 +260,48 @@ To be completed in a later workshop.
  
 ## 3. Project Organization
  
-### 3.1 Project Team Structure
- 
-To be completed in a later workshop.
- 
-### 3.2 Key Stakeholders
- 
-To be completed in a later workshop.
+### 3.1 Stakeholder Register
+
+| **Name** | **Position** | **Internal / External** | **Project Role** | **Email** |
+|----------|--------------|-------------------------|------------------|-----------|
+| Junlian Xiang | Professor, BTS535, Seneca Polytechnic | Internal | Project Sponsor | junlian.xiang@senecapolytechnic.ca |
+| Tarangkumar Janakkumar Patel | Student, Seneca Polytechnic | Internal | Scrum Master and Developer | tjpatel5@myseneca.ca |
+| Festus Sabu | Student, Seneca Polytechnic | Internal | Backend and AI Developer | fsabu@myseneca.ca |
+| Jaishnav Prasad | Student, Seneca Polytechnic | Internal | Frontend and Desktop App Developer | jprasad3@myseneca.ca |
+| Faith Sam | Student, Seneca Polytechnic | Internal | QA Tester and Documentation Lead | fsam3@myseneca.ca |
+| Linda Chen | Privacy and Security Advisor | Internal | Privacy Reviewer | linda.chen@example.com |
+| Rachel Morgan | IT Support Analyst | Internal | IT Support (lab machines and software installs) | rachel.morgan@example.com |
+| Daniel Kim | Software Developer | External | End User (Developer) and Beta Tester | daniel.kim@example.com |
+| Priya Nair | University Researcher | External | End User (Researcher) | priya.nair@example.com |
+| Alex Rivera | Open-Source Community Maintainer | External | Third-Party Tool Provider (Ollama and AI libraries) | alex.rivera@example.com |
+
+### 3.2 Stakeholder Analysis Matrix
+
+![Stakeholder Analysis Matrix](images/Stakeholder_Matrix.png)
+
+The matrix places every stakeholder from the Stakeholder Register by their **power** over the project (vertical) and their **interest** in it (horizontal). The colour of each name shows their **attitude** toward the project.
+
+- **Manage Closely (high power, high interest):** Junlian Xiang (Project Sponsor) and Tarangkumar Patel (Scrum Master). Both support the project and are involved in every major decision.
+- **Keep Satisfied (high power, low interest):** Linda Chen (Privacy Advisor) has concerns about how an AI app handles personal files, so we must show her that all data stays on the user's computer. Rachel Morgan (IT Support) is neutral and only needs to approve software installs.
+- **Keep Informed (low power, high interest):** the developers Festus Sabu, Jaishnav Prasad and Faith Sam, and Daniel Kim (End User, Developer). All of them support the project.
+- **Monitor (low power, low interest):** Priya Nair (End User, Researcher) and Alex Rivera (Open-Source Maintainer). Both are neutral.
 
 ### 3.3 Stakeholder Communications Analysis
 
+Stakeholders with higher power and interest are contacted more often.
+
 | Information                      | Owner                     | Audience                                                        | Schedule                          | Channel                    |
 |----------------------------------|---------------------------|-----------------------------------------------------------------|-----------------------------------|----------------------------|
-| Daily Stand-up                   | Scrum Master              | Backend and AI Developer, Frontend Developer, QA and DevOps Specialist | Daily (15 min)              | MS Teams                   |
+| Daily Stand-up                   | Scrum Master              | Backend and AI Developer, Frontend Developer, QA Tester | Daily (15 min)              | MS Teams                   |
 | Project Status Report            | Scrum Master              | Project Sponsor                                                 | Weekly                            | Email                      |
 | Sprint Review and Demo           | Development Team          | Project Sponsor, Scrum Master                                   | Biweekly (end of each sprint)     | In Person                  |
-| Sprint Planning and Retrospective| Scrum Master              | Backend and AI Developer, Frontend Developer, QA and DevOps Specialist | Biweekly (start/end of sprint) | In Person               |
+| Sprint Planning and Retrospective| Scrum Master              | Backend and AI Developer, Frontend Developer, QA Tester | Biweekly (start/end of sprint) | In Person               |
 | Scope or Charter Change Approval | Scrum Master              | Project Sponsor                                                 | As needed                         | GitHub Pull Request, Email |
-| Test and Build Results           | QA and DevOps Specialist  | Backend and AI Developer, Frontend Developer                    | Every pull request                | GitHub Actions             |
+| Test and Build Results           | QA Tester  | Backend and AI Developer, Frontend Developer                    | Every pull request                | GitHub Actions             |
 | Beta Testing Feedback            | Frontend Developer        | End Users (Students, Developers, Researchers)                   | Monthly (from Sprint 5)           | Online Survey, Email       |
+| Privacy and Data Handling Review | Scrum Master | Privacy Advisor (Linda Chen) | Biweekly (end of each sprint) | Email, Short Meeting |
+| Software Install and Lab Machine Requests | Scrum Master | IT Support (Rachel Morgan) | Monthly or as needed | Email, IT Service Ticket |
+| Bug Reports and Feature Requests | Backend and AI Developer | Open-Source Maintainer (Alex Rivera) | As needed | GitHub Issues |
 | Release and User Guide           | Scrum Master              | End Users (Students, Developers, Researchers)                   | End of Project                    | GitHub Release, Email      |
 | Final Report and Demo            | Project Team              | Project Sponsor                                                 | End of Project                    | In Person                  |
  
