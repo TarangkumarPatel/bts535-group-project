@@ -288,7 +288,22 @@ The matrix places every stakeholder from the Stakeholder Register by their **pow
 
 ### 3.3 Stakeholder Communications Analysis
 
-To be completed.
+Stakeholders with higher power and interest are contacted more often.
+
+| Information                      | Owner                     | Audience                                                        | Schedule                          | Channel                    |
+|----------------------------------|---------------------------|-----------------------------------------------------------------|-----------------------------------|----------------------------|
+| Daily Stand-up                   | Scrum Master              | Backend and AI Developer, Frontend Developer, QA Tester | Daily (15 min)              | MS Teams                   |
+| Project Status Report            | Scrum Master              | Project Sponsor                                                 | Weekly                            | Email                      |
+| Sprint Review and Demo           | Development Team          | Project Sponsor, Scrum Master                                   | Biweekly (end of each sprint)     | In Person                  |
+| Sprint Planning and Retrospective| Scrum Master              | Backend and AI Developer, Frontend Developer, QA Tester | Biweekly (start/end of sprint) | In Person               |
+| Scope or Charter Change Approval | Scrum Master              | Project Sponsor                                                 | As needed                         | GitHub Pull Request, Email |
+| Test and Build Results           | QA Tester  | Backend and AI Developer, Frontend Developer                    | Every pull request                | GitHub Actions             |
+| Beta Testing Feedback            | Frontend Developer        | End Users (Students, Developers, Researchers)                   | Monthly (from Sprint 5)           | Online Survey, Email       |
+| Privacy and Data Handling Review | Scrum Master | Privacy Advisor (Linda Chen) | Biweekly (end of each sprint) | Email, Short Meeting |
+| Software Install and Lab Machine Requests | Scrum Master | IT Support (Rachel Morgan) | Monthly or as needed | Email, IT Service Ticket |
+| Bug Reports and Feature Requests | Backend and AI Developer | Open-Source Maintainer (Alex Rivera) | As needed | GitHub Issues |
+| Release and User Guide           | Scrum Master              | End Users (Students, Developers, Researchers)                   | End of Project                    | GitHub Release, Email      |
+| Final Report and Demo            | Project Team              | Project Sponsor                                                 | End of Project                    | In Person                  |
  
 ---
  
